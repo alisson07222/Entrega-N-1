@@ -610,7 +610,7 @@ text-align: center;
   flex-direction: column;
   align-items: center;
   text-align: center;
-	color: #dfb018;
+	color: #c49d1e;
   font-size: 1.7em;
   font-family: 'Marvel-Regular';
   font-weight: 700;
@@ -629,7 +629,7 @@ margin-top:2em;
 padding:0;
 }
 .what-do h3,.activites h3{
-color: #e4c644;
+color: #dac156;
   font-size: 1.7em;
   font-family: 'Marvel-Regular';
   font-weight: 700;
@@ -643,7 +643,7 @@ font-size: 0.9em;
 text-decoration: none;
 }
 .what-do ul li a:hover,.activites ul li a:hover  {
-color:#b28b51;
+color:#aa8348;
 padding-left: 1em;
 }
 .team{
@@ -667,7 +667,7 @@ font-size: 0.9em;
 	width: 100%;
 }
 .team-grid h4{
-	  color:#6F5C1D;
+	  color:#8d7629;
   font-size: 1em;
   font-weight: 600;
   margin:0.6em 0;
