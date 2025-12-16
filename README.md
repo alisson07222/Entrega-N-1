@@ -16,4 +16,6 @@ Sitio web educativo dedicado a la concientización sobre los animales salvajes, 
 2. Abrir el archivo index.html en el navegador.
 
 ## Autor
-Alisson Mariana Montoya Serna
+Alisson Mariana Montoya Serna.
+
+Proyecto académico primera entrega de el proyecto final.
