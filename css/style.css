@@ -21,6 +21,10 @@ html, body{
    font-family: 'Marvel-Regular';
    src: url(../fonts2/Marvel-Regular.ttf) format('truetype');
 }
+body {
+  margin: 0;
+}
+
 body a{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
