@@ -306,7 +306,7 @@ span.menu {
   margin-bottom: 6px;
 }
 .panel-title a:hover {
-  color: #b28b51;
+  color: #b89158;
   text-decoration: none;
 }
 .panel-group {
@@ -320,7 +320,7 @@ span.menu {
   width: 60px;
   height: 60px;
   display: inline-block;
-  border: 1px solid #a59448;
+  border: 1px solid #ad9a46;
   border-radius: 620px;
   margin-bottom: 1.5em;
   padding: 14px 0px;
@@ -354,7 +354,7 @@ span.menu {
 .icon-info span{
 	display:inline-block;
 	width:20%;
-	background:#a19030;
+	background:#a89630;
 	height:1px;
 }
 .icon-info p{
